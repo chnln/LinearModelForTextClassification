@@ -1,9 +1,5 @@
 # EMNLP Homework1 Report: Log-linear Model for Text Classification
 
-Li Nan 1700014110 Deparment of Chinese Language and Literature
-
-[TOC]
-
 ## 0 Abstract
 
 In the report, I implement the log-linear model from scratch and update algorithm. The overview of the result is listed below. Besides, I made some effort on using bigram to represent features of text and tested its performance.
